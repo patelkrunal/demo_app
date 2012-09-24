@@ -9,7 +9,11 @@ if defined?(Bundler)
   # Bundler.require(:default, :assets, Rails.env)
 end
 
+<<<<<<< HEAD
 module DemoApp
+=======
+module FirstApp
+>>>>>>> 70b682fb166290159cdf6e3bc59c3f009aa8d15c
   class Application < Rails::Application
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
